@@ -3,7 +3,7 @@ package chapter02;
 public class ExceptionTest {
 
 	public static void main(String[] args) {
-		int a = 1;
+		int a = 0;
 		int k = 0;
 		
 		try{
